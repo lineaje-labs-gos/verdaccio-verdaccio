@@ -916,7 +916,7 @@ importers:
         specifier: workspace:14.0.0-next-9.5
         version: link:../../core/types
       '@verdaccio/ui-components':
-        specifier: workspace:5.0.0-next-9.10
+        specifier: workspace:5.0.0-next-9.11
         version: link:../../ui-components
       '@verdaccio/ui-i18n':
         specifier: workspace:10.0.0-next-9.2

@@ -1,5 +1,11 @@
 # @verdaccio/ui-components
 
+## 5.0.0-next-9.11
+
+### Patch Changes
+
+- 5e64d64: chore(ui-components): update json-viewer
+
 ## 5.0.0-next-9.10
 
 ### Patch Changes
